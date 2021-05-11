@@ -1,0 +1,323 @@
+ID,Rarity,Name,Type,Up,Right,Down,Left
+1,1,Dodo,,4,2,3,4
+2,1,Tonberry,,2,2,7,2
+3,1,Sabotender,,4,3,3,3
+4,1,Spriggan,,2,3,4,4
+5,1,Pudding,,2,4,3,5
+6,1,Bomb,,3,4,3,3
+7,1,Mandragora,,4,2,5,3
+8,1,Coblyn,,3,3,3,4
+9,1,Morbol,,5,2,5,2
+10,1,Coeurl,,2,5,2,5
+11,1,Ahriman,,5,5,2,2
+12,1,Goobbue,,2,5,5,2
+13,1,Chocobo,,3,7,2,1
+14,1,Amalj'aa,Beastman,1,4,7,1
+15,1,Ixal,Beastman,6,1,3,4
+16,1,Sylph,Beastman,2,4,5,4
+17,1,Kobold,Beastman,2,2,4,6
+18,1,Sahagin,Beastman,4,5,3,3
+19,1,Tataru Taru,Scion,7,2,3,2
+20,1,Moogle,Beastman,2,1,3,7
+21,2,Siren,,3,6,7,2
+22,2,Ultros & Typhon,,2,3,6,7
+23,2,Demon Wall,,6,7,2,3
+24,2,Succubus,,7,3,2,6
+25,2,Chimera,,7,7,2,2
+26,2,Blue Dragon,,2,2,7,7
+27,2,Scarface Bugaal Ja,Beastman,6,6,2,6
+28,2,Momodi Modi,,7,5,5,3
+29,2,Baderon Tenfingers,,3,7,5,5
+30,2,Mother Miounne,,5,5,3,7
+31,2,Livia sas Junius,Garlean,3,7,7,1
+32,2,Rhitahtyn sas Arvina,Garlean,7,1,3,7
+33,2,Biggs & Wedge,,5,3,7,5
+34,2,Gerolt,,1,7,3,7
+35,2,Frixio,Beastman,6,2,6,6
+36,2,Mutamix Bubblypots,Beastman,2,6,6,6
+37,2,Memeroon,Beastman,6,6,6,2
+38,3,Behemoth,,7,8,4,2
+39,3,Gilgamesh & Enkidu,,8,3,7,3
+40,3,Ifrit,Primal,7,1,6,7
+41,3,Titan,Primal,1,7,7,6
+42,3,Garuda,Primal,7,6,1,7
+43,3,Good King Moogle Mog XII,Primal,7,6,7,1
+44,3,Raya-O-Senna & A-Ruhn-Senna,,5,6,6,6
+45,3,Godbert Manderville,,6,6,5,6
+46,3,Thancred,Scion,2,3,8,7
+47,3,Nero tol Scaeva,Garlean,4,1,8,7
+48,3,Papalymo & Yda,Scion,3,7,8,2
+49,3,Y'shtola,Scion,7,8,1,4
+50,3,Urianger,Scion,8,1,4,7
+51,4,The Ultima Weapon,Garlean,7,8,9,1
+52,4,Odin,Primal,8,8,1,8
+53,4,Ramuh,Primal,8,1,8,8
+54,4,Leviathan,Primal,8,8,8,1
+55,4,Shiva,Primal,1,8,8,8
+56,4,Minfilia,Scion,9,8,3,5
+57,4,Lahabrea,,4,9,4,8
+58,4,Cid Garlond,,5,9,9,2
+59,4,Alphinaud & Alisaie,Scion,9,3,3,9
+60,4,Louisoix Leveilleur,Scion,9,4,9,3
+61,5,Bahamut,Primal,9,5,9,6
+62,5,Hildibrand & Nashu Mhakaracca,,1,8,A,8
+63,5,Nanamo Ul Namo,,A,6,4,8
+64,5,Gaius van Baelsar,Garlean,4,A,5,9
+65,5,Merlwyb Bloefhiswyn,,5,9,A,3
+66,5,Kan-E-Senna,,9,10,1,7
+67,5,Raubahn Aldynn,,6,2,9,A
+68,1,Gaelicat,,4,1,1,7
+69,2,Vanu Vanu,Beastman,2,6,4,7
+70,2,Gnath,Beastman,6,3,7,3
+71,2,Yugiri Mistwalker,,7,7,1,3
+72,2,Fat Chocobo,,5,5,5,5
+73,3,Griffin,,5,1,7,8
+74,3,Tioman,,1,5,8,7
+75,3,Estinien,,8,8,2,3
+76,3,Lucia goe Junius,,8,2,3,8
+77,3,Ysayle,,4,8,8,1
+78,3,Hilda,,1,4,8,8
+79,3,Matoya,,8,3,8,1
+80,3,Count Edmont de Fortemps,,1,8,3,8
+81,3,Byblos,,8,4,1,7
+82,3,Haurchefant,,7,1,5,8
+83,4,Aymeric,,1,5,9,9
+84,4,Ravana,Primal,9,7,8,1
+85,4,Bismarck,Primal,1,9,7,8
+86,5,Nidhogg,,A,7,3,8
+87,5,Midgardsormr,,3,8,A,7
+88,1,Deepeye,,1,3,7,2
+89,2,Archaeornis,,5,4,6,5
+90,2,Paissa,,4,6,3,6
+91,2,Dhalmel,,6,5,3,5
+92,2,Bandersnatch,,6,6,3,4
+93,2,Crawler,,7,7,3,2
+94,2,Poroggo,,6,3,7,3
+95,3,Vedrfolnir,,8,2,7,4
+96,3,Coeurlregina,,5,5,5,8
+97,3,Progenitrix,,6,6,3,6
+98,3,Belladonna,,3,7,3,7
+99,3,Echidna,,6,4,7,4
+100,3,Pipin Tarupin,,6,5,6,6
+101,3,Julyan Manderville,,6,6,5,7
+102,3,Moglin,Beastman,8,5,4,5
+103,3,Charibert,,7,8,4,3
+104,3,Roundrox,Beastman,2,2,8,8
+105,4,Senor Sabotender,,9,5,7,6
+106,5,Regula van Hydrus,Garlean,8,8,6,8
+107,5,Archbishop Thordan VII,,7,1,A,9
+108,2,Honoroit,,7,2,7,2
+109,2,Hoary Boulder & Coultenet,Scion,2,7,2,7
+110,3,Brachiosaur,,8,4,5,4
+111,3,Darkscale,,2,8,4,7
+112,3,Fenrir,,7,3,6,4
+113,3,Kraken,,3,6,6,6
+114,3,Vicegerent to the Warden,,7,1,7,5
+115,3,Manxome Molaa Ja Ja,Beastman,3,7,2,8
+116,3,Ferdiad,,4,6,8,4
+117,3,Calcabrina,,6,6,6,3
+118,3,Kuribu,,8,3,2,7
+119,3,Phlegethon,,1,7,6,7
+120,3,Artoirel de Fortemps,,4,7,3,7
+121,3,Emmanellain de Fortemps,,7,4,7,3
+122,4,Xande,,9,4,6,7
+123,4,Brute Justice,,7,7,7,7
+124,4,Sephirot,Primal,6,8,8,6
+125,4,F'lhaminn,Scion,9,7,3,7
+126,4,Vidofnir,,8,6,8,6
+127,5,Cloud of Darkness,,7,A,7,6
+128,2,Lolorito Nanarito,,4,3,7,3
+129,2,Gibrillont,,2,6,3,6
+130,2,Laniaitte de Haillenarte,,7,6,3,3
+131,2,Rhoswen,,5,6,4,6
+132,2,Carvallain de Gorgagne,,2,7,7,2
+133,3,Kal Myhk,,1,8,4,8
+134,3,Waukkeon,,1,6,7,7
+135,3,Curator,,4,6,4,7
+136,3,Mistbeard,,5,6,7,6
+137,4,Unei & Doga,,6,8,6,8
+138,4,Tiamat,,9,6,5,6
+139,4,Calofisteri,,5,8,7,8
+140,5,Hraesvelgr,,7,7,A,6
+141,1,Apkallu,,3,4,4,1
+142,1,Colibri,,6,1,4,1
+143,1,Magitek Death Claw,Garlean,4,3,2,3
+144,2,Liquid Flame,,4,3,6,6
+145,2,Lost Lamb,,7,3,4,5
+146,2,Delivery Moogle,Beastman,5,5,6,3
+147,2,Magitek Colossus,Garlean,6,3,6,3
+148,3,Strix,,5,7,1,7
+149,3,Tozol Huatotl,Beastman,7,6,6,2
+150,3,Alexander Prime,Primal,7,3,2,8
+151,3,Brendt Brennan & Bremondt,,4,7,6,5
+152,4,Heavensward Thancred,Scion,8,1,7,9
+153,4,Heavensward Y'shtola,Scion,9,9,2,5
+154,4,Nael van Darnus,Garlean,3,9,3,9
+155,5,Sophia,Primal,A,8,5,6
+156,1,Opo-opo,,1,4,2,6
+157,2,Adamantoise,,5,7,4,4
+158,2,Magitek Vanguard,Garlean,3,5,4,7
+159,2,Magitek Gunship,Garlean,3,5,5,5
+160,3,Lava Scorpion,,3,8,5,5
+161,3,Magitek Predator,Garlean,5,7,4,5
+162,3,Magitek Sky Armor,Garlean,6,2,6,7
+163,3,The Griffin,,8,8,4,1
+164,4,Diabolos Hollow,,4,4,8,9
+165,4,Armored Weapon,Garlean,3,5,9,7
+166,5,Zurvan,Primal,3,7,8,A
+167,2,Gold Saucer Attendant,,4,7,1,6
+168,3,Roland,,2,7,8,3
+169,4,Gigi,,6,8,4,7
+170,1,Namazu,Beastman,1,6,1,5
+171,2,Kojin,Beastman,4,5,5,4
+172,2,Ananta,Beastman,3,7,5,2
+173,2,M'naago,,4,1,4,7
+174,2,Kotokaze,,5,6,2,6
+175,3,Mammoth,,6,3,8,3
+176,3,Phoebad,,8,8,3,1
+177,3,Susano,Primal,2,8,3,8
+178,3,Lakshmi,Primal,3,7,7,5
+179,3,Grynewaht,Garlean,7,4,7,4
+180,3,Rasho,,4,7,8,2
+181,3,Cirina,,3,5,6,8
+182,3,Magnai,,6,7,4,4
+183,3,Sadu,,6,6,7,4
+184,4,Shinryu,Primal,7,8,8,2
+185,4,Yotsuyu,Garlean,9,2,8,6
+186,4,Krile,Scion,2,8,8,7
+187,4,Lyse,Scion,6,9,1,8
+188,5,Zenos yae Galvus,Garlean,6,6,7,A
+189,5,Hien,,2,A,5,A
+190,1,Mossling,,5,2,5,1
+191,2,Chapuli,,7,2,2,6
+192,2,Qiqirn Meateater,Beastman,1,5,7,5
+193,3,Hrodric Poisontongue,,2,7,6,7
+194,3,Fordola rem Lupis,,5,8,6,3
+195,3,Rofocale,,4,7,1,8
+196,4,Argath Thadalfus,,9,2,5,8
+197,5,Raubahn & Pipin,,1,A,A,6
+198,1,Koja,,3,2,1,6
+199,2,Ango,,4,2,7,4
+200,2,Guidance Node,,6,4,4,4
+201,2,Tansui,,6,2,3,7
+202,3,Genbu,,7,7,1,7
+203,3,Byakko,,7,1,7,7
+204,3,Arenvald Lentinus,Scion,8,4,8,2
+205,3,Lupin,Beastman,3,3,8,7
+206,4,Hancock,,8,9,1,7
+207,5,Hisui & Kurenai,,A,2,7,9
+208,3,Qitian Dasheng,,3,8,4,8
+209,4,Tsukuyomi,Primal,2,7,7,8
+210,5,Yiazmat,,7,6,A,7
+211,5,Gosetsu,,A,5,A,2
+212,1,Wanyudo & Katasharin,,6,1,1,5
+213,2,Hatamoto,,2,7,5,6
+214,3,Hiruko,,4,7,5,7
+215,2,Yukinko,,3,7,3,5
+216,3,Happy Bunny,,3,8,7,3
+217,3,Louhi,,5,8,2,7
+218,2,Muud Suud,,3,7,1,7
+219,3,Tokkapchi,,2,6,6,7
+220,3,Mist Dragon,,5,8,5,5
+221,3,Suzaku,,1,7,7,7
+222,3,Asahi sas Brutus,Garlean,8,4,1,8
+223,5,Omega,,6,9,3,A
+224,1,Karakuri Hanya,,7,1,1,4
+225,3,Pazuzu,,4,8,4,7
+226,3,Penthesilea,,7,2,8,5
+227,5,Yojimbo & Daigoro,,A,8,1,8
+228,1,Stormblood Tataru Taru,Scion,1,4,1,7
+229,3,Prometheus,Garlean,6,5,8,3
+230,3,Seiryu,,7,7,7,1
+231,3,Alpha,,6,6,6,6
+232,4,Great Gold Whisker,Beastman,6,9,6,7
+233,5,Ultima the High Seraph,,6,A,7,7
+234,5,Stormblood Alphinaud & Alisaie,Scion,6,8,8,8
+235,2,Dvergr,,4,5,3,7
+236,2,Ejika Tsunjika,,7,1,1,7
+237,3,Provenance Watcher,,7,4,4,8
+238,4,Stormblood Gilgamesh,,9,4,8,4
+239,1,Amaro,,1,7,2,3
+240,1,Evil Weapon,,7,2,2,2
+241,1,Lord and Lady Chai,,5,1,6,1
+242,2,Gigantender,,7,4,4,4
+243,2,Feo Ul,Beastman,7,5,5,1
+244,2,Runar,,6,4,7,1
+245,2,Grenoldt,,1,3,7,7
+246,3,Philia,,2,6,8,6
+247,3,Titania,,8,6,6,2
+248,3,Eros,,6,2,6,8
+249,3,Storge,,6,8,2,6
+250,3,Formidable,,8,5,5,5
+251,3,Lyna,,1,8,8,3
+252,3,Jongleurs of Eulmore,,4,4,7,6
+253,4,Innocence,,8,3,8,8
+254,4,Shadowbringers Y'shtola,Scion,2,9,5,9
+255,4,Shadowbringers Urianger,Scion,9,2,5,9
+256,4,Ran'jit,,1,9,9,5
+257,5,Hades,,8,6,6,A
+258,5,Ardbert,,1,9,9,9
+259,1,Hobgoblin,,2,7,2,2
+260,1,Porxie,,1,2,6,4
+261,2,Iguana,,3,5,6,5
+262,2,Nu Mou,Beastman,7,6,2,4
+263,2,Fuath,Beastman,7,4,6,2
+264,3,Leannan Sith,,8,7,2,4
+265,3,Seeker of Solitude,,4,6,6,8
+266,4,Oracle of Light,,7,7,9,4
+267,5,Archaeotania,,A,9,7,1
+268,5,9S,,4,8,6,A
+269,1,Flower Basket,,2,2,2,7
+270,1,Qitari,Beastman,4,6,2,2
+271,2,Gnoll,,2,4,7,6
+272,3,Batsquatch,,6,2,8,6
+273,3,Forgiven Obscenity,,8,7,1,6
+274,3,Huaca,,7,5,8,2
+275,3,Unknown,,5,6,3,8
+276,4,The Ruby Weapon,Garlean,8,7,1,9
+277,5,Therion,,9,9,2,9
+278,2,Lizbeth,,5,5,6,4
+279,5,Varis yae Galvus,Garlean,A,A,4,1
+280,1,Dwarf,Beastman,2,4,6,2
+281,2,Rolling Tankard,,6,4,2,6
+282,3,Lugus,,5,4,7,7
+283,4,Elidibus,,8,4,9,4
+284,4,Shadowbringers Thancred,Scion,7,9,8,1
+285,4,The Sapphire Weapon,Garlean,1,9,8,7
+286,5,2P,,4,8,A,6
+287,5,Shadowbringers Warrior of Light,Primal,2,A,A,5
+288,2,Ehll Tou,,1,7,1,7
+289,3,Dawon,Garlean,8,4,6,6
+290,3,Adrammelech,,6,1,7,8
+291,2,Mother Porxie,,3,3,7,6
+292,4,The Emerald Weapon,Garlean,7,1,9,8
+293,4,Ryne,,7,9,7,1
+294,4,Gaia,,5,9,1,9
+295,5,Eden's Promise,,A,5,8,6
+296,5,Phoenix,Primal,5,9,6,9
+297,1,The Great Azuro,,4,7,1,1
+298,3,Trinity Seeker,,6,1,8,7
+299,3,Trinity Avowed,,8,7,6,1
+300,3,Azulmagia,,4,8,6,8
+301,3,Siegfried,,6,6,4,8
+302,3,Gogo Master of Mimicry,,8,6,4,6
+303,2,Keeper of the Keys,,5,4,4,7
+304,3,Lunar Bahamut,Primal,8,2,8,4
+305,3,Valens van Varro,Garlean,7,5,8,3
+306,4,G-Warrior,,9,1,7,8
+307,4,The Diamond Weapon,Garlean,9,8,7,1
+308,5,2B,,6,A,4,8
+1001,5,Warrior of Light,,A,2,5,A
+1002,5,Firion,,A,5,A,1
+1003,5,Onion Knight,,8,2,8,A
+1004,5,Cecil Harvey,,4,A,4,A
+1005,5,Bartz Klauser,,4,4,A,A
+1006,5,Terra Branford,,A,A,2,5
+1007,5,Cloud Strife,,9,3,9,8
+1008,5,Squall Leonhart,,6,A,A,1
+1009,5,Zidane Tribal,,5,A,6,8
+1010,5,Tidus,,A,7,1,9
+1011,5,Shantotto,,4,9,7,9
+1012,5,Vaan,,1,7,A,9
+1013,5,Lightning,,9,1,7,A
+1014,5,Noctis Lucis Caelum,,7,A,9,1
