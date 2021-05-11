@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+cardlist.xlsx
+Debug/FFXIVTripleTriad.Build.CppClean.log
+Debug/FFXIVTripleTriad.log
+Debug/FFXIVTripleTriad.tlog/CL.command.1.tlog
+Debug/FFXIVTripleTriad.tlog/CL.read.1.tlog
+Debug/FFXIVTripleTriad.tlog/CL.write.1.tlog
+Debug/FFXIVTripleTriad.tlog/FFXIVTripleTriad.lastbuildstate
+Debug/FFXIVTripleTriad.tlog/link.command.1.tlog
+Debug/FFXIVTripleTriad.tlog/link.read.1.tlog
+Debug/FFXIVTripleTriad.tlog/link.write.1.tlog
+Debug/vc141.idb
+Debug/vc141.pdb
